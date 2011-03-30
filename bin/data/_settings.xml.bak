@@ -1,0 +1,38 @@
+<controls>
+    <Toggle_Transform>
+        <name>Transform</name>
+        <value>1</value>
+    </Toggle_Transform>
+    <SliderInt_X-Pos>
+        <name>X-Pos</name>
+        <value>316</value>
+    </SliderInt_X-Pos>
+    <SliderInt_Y-Pos>
+        <name>Y-Pos</name>
+        <value>180</value>
+    </SliderInt_Y-Pos>
+    <SliderInt_Z-Pos>
+        <name>Z-Pos</name>
+        <value>4</value>
+    </SliderInt_Z-Pos>
+    <SliderFloat_X-Rot>
+        <name>X-Rot</name>
+        <value>0.000000</value>
+    </SliderFloat_X-Rot>
+    <SliderFloat_Y-Rot>
+        <name>Y-Rot</name>
+        <value>0.000000</value>
+    </SliderFloat_Y-Rot>
+    <SliderFloat_Z-Rot>
+        <name>Z-Rot</name>
+        <value>0.000000</value>
+    </SliderFloat_Z-Rot>
+    <Button_Save_settings>
+        <name>Save settings</name>
+        <value>0</value>
+    </Button_Save_settings>
+    <SliderInt_Z-Depth>
+        <name>Z-Depth</name>
+        <value>27</value>
+    </SliderInt_Z-Depth>
+</controls>

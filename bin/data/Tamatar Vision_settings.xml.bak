@@ -1,0 +1,54 @@
+<controls>
+    <Toggle_Show_source_image>
+        <name>Show source image</name>
+        <value>0</value>
+    </Toggle_Show_source_image>
+    <Toggle_Smoothing>
+        <name>Smoothing</name>
+        <value>1</value>
+    </Toggle_Smoothing>
+    <Toggle_Hist._equalize>
+        <name>Hist. equalize</name>
+        <value>0</value>
+    </Toggle_Hist._equalize>
+    <Toggle_Circle_morph>
+        <name>Circle morph</name>
+        <value>0</value>
+    </Toggle_Circle_morph>
+    <SliderInt_Radius>
+        <name>Radius</name>
+        <value>1</value>
+    </SliderInt_Radius>
+    <Toggle_Canny>
+        <name>Canny</name>
+        <value>0</value>
+    </Toggle_Canny>
+    <SliderInt_Thres_1>
+        <name>Thres 1</name>
+        <value>125</value>
+    </SliderInt_Thres_1>
+    <SliderInt_Thres_2>
+        <name>Thres 2</name>
+        <value>10</value>
+    </SliderInt_Thres_2>
+    <Toggle_Cirlces>
+        <name>Cirlces</name>
+        <value>1</value>
+    </Toggle_Cirlces>
+    <SliderInt_Edge_threshold>
+        <name>Edge threshold</name>
+        <value>220</value>
+    </SliderInt_Edge_threshold>
+    <SliderInt_Accum._threshold>
+        <name>Accum. threshold</name>
+        <value>66</value>
+    </SliderInt_Accum._threshold>
+    <SliderInt_Min._radius>
+        <name>Min. radius</name>
+        <value>20</value>
+    </SliderInt_Min._radius>
+    <SliderInt_Max._radius>
+        <name>Max. radius</name>
+        <value>49</value>
+    </SliderInt_Max._radius>
+</controls>
